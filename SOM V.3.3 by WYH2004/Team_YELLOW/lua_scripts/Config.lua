@@ -50,7 +50,7 @@ gBayesPlayTable={
 }
 
 gTestPlayTable = {
-    "Ref/MiddleKick/MySkill_shoot2"
+    "Ref/BackKick/MySkill_shoot2"
 }
 
 for	role,num in pairs(gRoleFixNum)do

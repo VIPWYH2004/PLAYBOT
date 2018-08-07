@@ -30,7 +30,7 @@ firstState="GetBall",
 		end
 	end,
 	Kicker   = task.GoRecePos("Kicker"),
-	Receiver = task.ReceiverTask("getballpre"),
+	Receiver = task.GetBall("Receiver","Receiver"),
 	Goalie   = task.Goalie(),
 },
 
